@@ -1,0 +1,6 @@
+=== LOGS RÉSEAU ===
+Date: Mon Feb 23 15:15:40 WET 2026
+Total paquets: 0
+Paquets réussis: 0
+Paquets perdus: 1
+Débit moyen: 0 Mbps

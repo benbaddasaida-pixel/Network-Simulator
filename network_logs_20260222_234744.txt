@@ -1,0 +1,6 @@
+=== LOGS RÉSEAU ===
+Date: Sun Feb 22 23:47:44 WET 2026
+Total paquets: 2
+Paquets réussis: 2
+Paquets perdus: 0
+Débit moyen: 499 Mbps
